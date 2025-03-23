@@ -1,20 +1,20 @@
 [
   {
-    "name": "Personal",
+    "name": "snnkv.com",
     "url": "https://snnkv.com/",
     "icon": "https://icons.duckduckgo.com/ip3/snnkv.com.ico",
-    "slug": "personal",
+    "slug": "snnkv-com",
     "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 294,
-    "timeDay": 278,
-    "timeWeek": 294,
-    "timeMonth": 294,
-    "timeYear": 294,
+    "time": 307,
+    "timeDay": 307,
+    "timeWeek": 307,
+    "timeMonth": 307,
+    "timeYear": 307,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +28,31 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 158,
-    "timeDay": 169,
-    "timeWeek": 158,
-    "timeMonth": 158,
-    "timeYear": 158,
+    "time": 167,
+    "timeDay": 192,
+    "timeWeek": 167,
+    "timeMonth": 167,
+    "timeYear": 167,
     "dailyMinutesDown": {}
+  },
+  {
+    "name": "Mademistakes",
+    "url": "https://snnkv.com/mademistakes/api/v1.0/issues",
+    "icon": "https://icons.duckduckgo.com/ip3/snnkv.com.ico",
+    "slug": "mademistakes",
+    "status": "down",
+    "uptime": "4.67%",
+    "uptimeDay": "4.67%",
+    "uptimeWeek": "4.67%",
+    "uptimeMonth": "4.67%",
+    "uptimeYear": "4.67%",
+    "time": 244,
+    "timeDay": 244,
+    "timeWeek": 244,
+    "timeMonth": 244,
+    "timeYear": 244,
+    "dailyMinutesDown": {
+      "2025-03-23": 0
+    }
   }
 ]
