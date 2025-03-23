@@ -9,7 +9,7 @@ sites:
     url: https://diy-synths.snnkv.com/
   - name: Mademistakes
     url: https://snnkv.com/mademistakes/api/v1.0/issues
-    method: POST
+    method: GET
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
@@ -17,8 +17,8 @@ status-website:
   baseUrl: /upptime
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Upptime
-  introTitle: "Status page which uses **real-time** data from my [GitHub repo](https://github.com/Atarity/upptime). Powered by **Upptime**."
-  introMessage: "GitHub Actions is to monitor availability of below endpoints."
+  introTitle: "Status page which uses real-time data from my [GitHub repo](https://github.com/Atarity/upptime). Powered by Upptime."
+  introMessage: "GitHub Actions is to monitor availability of endpoints below."
   navbar:
     - title: Status
       href: /
