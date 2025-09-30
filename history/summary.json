@@ -4,18 +4,20 @@
     "url": "https://snnkv.com/",
     "icon": "https://icons.duckduckgo.com/ip3/snnkv.com.ico",
     "slug": "snnkv-com",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 283,
-    "timeDay": 235,
-    "timeWeek": 275,
-    "timeMonth": 261,
-    "timeYear": 283,
-    "dailyMinutesDown": {}
+    "time": 284,
+    "timeDay": 341,
+    "timeWeek": 296,
+    "timeMonth": 267,
+    "timeYear": 284,
+    "dailyMinutesDown": {
+      "2025-09-30": 0
+    }
   },
   {
     "name": "DIY synths DB",
