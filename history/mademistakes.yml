@@ -1,7 +1,7 @@
 url: https://snnkv.com/mademistakes/api/v1.0/issues
-status: down
-code: 500
-responseTime: 6
-lastUpdated: 2025-11-18T12:27:03.310Z
+status: up
+code: 200
+responseTime: 177
+lastUpdated: 2025-11-18T14:35:24.594Z
 startTime: 2025-03-23T17:34:23.292Z
 generator: Upptime <https://github.com/upptime/upptime>
