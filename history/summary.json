@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.65%",
     "time": 269,
-    "timeDay": 329,
-    "timeWeek": 271,
-    "timeMonth": 291,
+    "timeDay": 263,
+    "timeWeek": 262,
+    "timeMonth": 287,
     "timeYear": 269,
     "dailyMinutesDown": {
       "2025-11-18": 128,
@@ -33,37 +33,14 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.65%",
     "time": 193,
-    "timeDay": 288,
-    "timeWeek": 175,
-    "timeMonth": 181,
+    "timeDay": 199,
+    "timeWeek": 166,
+    "timeMonth": 178,
     "timeYear": 193,
     "dailyMinutesDown": {
       "2025-11-18": 120,
       "2025-10-05": 1067,
       "2025-10-04": 558
-    }
-  },
-  {
-    "name": "Mademistakes",
-    "url": "https://snnkv.com/mademistakes/api/v1.0/issues",
-    "icon": "https://icons.duckduckgo.com/ip3/snnkv.com.ico",
-    "slug": "mademistakes",
-    "status": "up",
-    "uptime": "99.64%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "99.64%",
-    "time": 170,
-    "timeDay": 198,
-    "timeWeek": 156,
-    "timeMonth": 154,
-    "timeYear": 170,
-    "dailyMinutesDown": {
-      "2025-11-18": 143,
-      "2025-10-05": 1067,
-      "2025-10-04": 558,
-      "2025-03-23": 17
     }
   }
 ]
