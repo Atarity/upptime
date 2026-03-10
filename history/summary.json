@@ -26,9 +26,9 @@
     "url": "https://diy-synths.snnkv.com/",
     "icon": "https://icons.duckduckgo.com/ip3/diy-synths.snnkv.com.ico",
     "slug": "diy-synths-db",
-    "status": "up",
+    "status": "down",
     "uptime": "99.66%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.66%",
@@ -38,6 +38,7 @@
     "timeMonth": 181,
     "timeYear": 193,
     "dailyMinutesDown": {
+      "2026-03-10": 0,
       "2025-11-18": 120,
       "2025-10-05": 1067,
       "2025-10-04": 558
