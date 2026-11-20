@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/snnkv.com.ico",
     "slug": "snnkv-com",
     "status": "up",
-    "uptime": "99.79%",
+    "uptime": "99.80%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 387,
-    "timeDay": 1026,
-    "timeWeek": 861,
-    "timeMonth": 858,
-    "timeYear": 422,
+    "time": 388,
+    "timeDay": 688,
+    "timeWeek": 817,
+    "timeMonth": 852,
+    "timeYear": 423,
     "dailyMinutesDown": {
       "2026-03-25": 35
     }
@@ -31,10 +31,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 210,
-    "timeDay": 262,
-    "timeWeek": 375,
-    "timeMonth": 252,
-    "timeYear": 209,
+    "timeDay": 429,
+    "timeWeek": 407,
+    "timeMonth": 259,
+    "timeYear": 210,
     "dailyMinutesDown": {
       "2026-03-10": 43,
       "2026-04-16": 53
